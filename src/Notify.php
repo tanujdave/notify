@@ -24,7 +24,7 @@ class Notify extends BaseNotify
     ];
 
     const SNS_TOPIC = [
-        self::TRANSITION => 'alpha-message',
+        self::TRANSITION => 'alpha_message',
     ];
 
 
